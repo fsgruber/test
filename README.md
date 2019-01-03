@@ -1,3 +1,3 @@
 # Welcome to the test tutorial
 
-You will find information in order to `run hello_world.sh`
+You will find information in order to execute `hello_world.sh`
